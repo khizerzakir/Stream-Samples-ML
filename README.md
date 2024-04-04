@@ -1,5 +1,5 @@
-# StreamSamples_ML
+# Machine Learning for Prediction/Interpolation of elemental concentrations usign Stream Sediment Samples
 
-Project for the Machine Learning Lecture in 2nd year of CDE Master.
+The main objective of this project is to estimate zinc concentration with the aid of Machine Learning Regresssion algorithms, based on the stream sediment samples collected in the DZV.
 
 The data was collected from the [Brazilian Geological Survey (CPRM)](https://rigeo.cprm.gov.br/handle/doc/19397) in the folder of the Destrito Zincífero de Vazante, Minas Gerais (MG), Brasil
